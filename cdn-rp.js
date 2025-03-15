@@ -110,7 +110,7 @@ animate();
                         setTimeout(updateLoading, 100);
                     } else {
                         // Setelah loading selesai, redirect ke halaman tujuan
-                        window.location.href = "https://link.situsslot.eu.org";
+                        window.location.href = "https://linkrobopragma.bonanza.eu.org";
                     }
                 }
 
